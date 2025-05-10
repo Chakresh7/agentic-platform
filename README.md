@@ -43,6 +43,10 @@ A comprehensive career development platform built with Next.js, React, and Tailw
 - `/public`: Static assets
 - `/styles`: Global styles and Tailwind configuration
 
+## Deployment
+
+This project is deployed using GitHub Pages. The deployment is automated using GitHub Actions.
+
 ## License
 
-MIT 
+MIT
